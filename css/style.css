@@ -78,6 +78,7 @@ body{
     height:100px;
     text-align: center;
     padding: 20px;
+    border: 1px solid #f5f6f7;
 
 }
 .continent:hover{
@@ -85,7 +86,4 @@ body{
     color: #1b1bf4;
 }
 
-.set-margin{
-    margin-bottom: 20px;
-}
 
